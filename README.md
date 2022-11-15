@@ -34,7 +34,7 @@ Dataset is from The [Trump Twitter Archive](http://www.trumptwitterarchive.com/)
 
 ![image](https://user-images.githubusercontent.com/31981663/201831612-c32c4986-140a-44e7-ab63-1f7d8430d099.png)
 
-📌 ** Calculated the log odds ratio of each word, we'll plot the 15 words with the greatest log odds ratio for the Android and the iPhone.
+📌 **Calculated the log odds ratio of each word, we'll plot the 15 words with the greatest log odds ratio for the Android and the iPhone.
 With the way we've set up the log odds ratio, positive values are assigned to words from the Android, and negative values are assigned to the iPhone.**
 
 ### Frequency of Each Word
